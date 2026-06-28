@@ -114,7 +114,7 @@ Smart-Agri-Analysis/
 
 ## 🛠️ Tech Stack
 
-* **Python 3.x**
+* **Python 3.14**
 * **Pandas** — data loading, cleaning, grouping
 * **NumPy** — numerical operations
 * **Matplotlib** — base plotting
@@ -156,10 +156,10 @@ jupyter notebook Smart\_Agri\_Analysis.ipynb
 ## 📋 requirements.txt
 
 ```
-pandas>=3.0.0
-numpy>=2.0.0
-matplotlib>=3.10.0
-seaborn>=0.13.0
+pandas>=3.0.4
+numpy>=2.5.0
+matplotlib>=3.11.0
+seaborn>=0.13.2
 jupyter
 ```
 
