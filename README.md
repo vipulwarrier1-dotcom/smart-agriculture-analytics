@@ -1,10 +1,10 @@
-# 🌾 Smart Agriculture Analysis — Karnataka Crop Recommendation EDA
+# Smart Agriculture Analysis — Karnataka Crop Recommendation EDA
 
 > An exploratory data analysis (EDA) of crop suitability across Karnataka's agro-climatic regions, built using Python. The project uncovers relationships between soil nutrients (N-P-K), climatic variables (rainfall, temperature, humidity, pH), and crop recommendations — broken down by district, season, soil type, and region.
 
 \---
 
-## 📌 Project Overview
+## Project Overview
 
 Karnataka's agricultural landscape is highly diverse — spanning coastal belts, semi-arid plateaus, the Malnad region, and the Deccan — each with unique soil profiles and seasonal patterns. This project analyses a curated crop recommendation dataset (`karnataka\_crop\_dataset\_V2.csv`) to surface actionable agronomic insights using data visualisation.
 
@@ -18,7 +18,7 @@ The analysis is structured around five core questions:
 
 \---
 
-## 📊 Dataset
+## Dataset
 
 |Attribute|Details|
 |-|-|
@@ -49,7 +49,7 @@ The analysis is structured around five core questions:
 
 \---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 Smart-Agri-Analysis/
@@ -62,7 +62,7 @@ Smart-Agri-Analysis/
 
 \---
 
-## 🔍 Key Findings
+## Key Findings
 
 ### 1\. Seasonal \& Regional Distribution
 
@@ -95,7 +95,7 @@ Smart-Agri-Analysis/
 
 \---
 
-## 📈 Visualisations
+## Visualisations
 
 |#|Plot|Type|
 |-|-|-|
@@ -112,7 +112,7 @@ Smart-Agri-Analysis/
 
 \---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Python 3.14**
 * **Pandas** — data loading, cleaning, grouping
@@ -122,7 +122,7 @@ Smart-Agri-Analysis/
 
 \---
 
-## ⚙️ Setup \& Usage
+## Setup \& Usage
 
 ### 1\. Clone the repository
 
@@ -153,7 +153,7 @@ jupyter notebook Smart\_Agri\_Analysis.ipynb
 
 \---
 
-## 📋 requirements.txt
+## requirements.txt
 
 ```
 pandas>=3.0.4
@@ -165,7 +165,7 @@ jupyter
 
 \---
 
-## 🔭 Scope \& Limitations
+## Scope \& Limitations
 
 * This analysis is **exploratory** and descriptive — no predictive model is built.
 * Crop recommendations reflect **dataset distributions**, not real-time market trends, water table data, or farmer preference surveys.
@@ -174,7 +174,7 @@ jupyter
 
 \---
 
-## 🚀 Possible Extensions
+## Possible Extensions
 
 * Build a **crop recommendation classifier** (Random Forest / XGBoost) using the existing features.
 * Integrate **ISRO Bhuvan / IMD rainfall geodata** to validate dataset distributions against satellite-derived actuals.
@@ -184,13 +184,13 @@ jupyter
 
 \---
 
-## 👤 Author
+## Author
 
 **Vipul .G. Warrier**
 Data \& Learning Enthusiast | Karnataka Agricultural Data Analysis
 
 \---
 
-## 📄 License
+## License
 
 This project is released under the [MIT License](LICENSE).
