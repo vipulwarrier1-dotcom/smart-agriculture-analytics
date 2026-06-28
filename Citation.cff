@@ -1,17 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this dataset or analysis, please cite it as below."
 authors:
-  - second-names: "Ganesh"
-    first-names: "R Megha"
+  - family-names: "Ganesh"
+    given-names: "R Megha"
 title: "Smart Agriculture Analytics: Crop Requirement & Soil Analysis"
-version: 1.0.0
-date-released: 2026-06-28
+version: "1.0.0"
+date-released: "2026-06-28"
 url: "https://github.com/vipulwarrier1-dotcom/smart-agriculutre-analytics"
 references:
   - type: data
     authors:
-      - second-names: "Ganesh"
-        first-names: "R Megha"
+      - family-names: "Ganesh"
+        given-names: "R Megha"
     title: "Karnataka Crop Advisory Dataset"
     year: 2026
     publisher: "Kaggle"
